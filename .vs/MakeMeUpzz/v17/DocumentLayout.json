@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|c:\\users\\vallen charissa\\downloads\\makemeupz\\makemeupzz\\makemeupzz\\views\\insertmakeuptypepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\views\\insertmakeuptypepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/871086BA90002B3E3D14883A9B28116F_4001_AB3D2820_29EB_11EF_AF5F_01C688FB1337_MAKEMEUPZZ_MAKEMEUPZZ_APP_DATA_MAKEMEUPZZDATABASE.MDF/True/SqlTable/dbo.TransactionDetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\makemeupzz\\controllers\\makeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\controllers\\makeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\makemeupzz\\views\\insertmakeuptypepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\views\\insertmakeuptypepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\makemeupzz\\views\\insertmakeupbrandpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\views\\insertmakeupbrandpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\makemeupzz\\views\\insertmakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\views\\insertmakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\makemeupzz\\views\\insertmakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\views\\insertmakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\makemeupzz\\views\\updatemakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\views\\updatemakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\makemeupzz\\views\\managemakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\views\\managemakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\makemeupzz\\views\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\views\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\makemeupzz\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{814A4D4F-6565-4B0D-AD63-7856B98E1501}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.TransactionDetails [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/871086BA90002B3E3D14883A9B28116F_4001_AB3D2820_29EB_11EF_AF5F_01C688FB1337_MAKEMEUPZZ_MAKEMEUPZZ_APP_DATA_MAKEMEUPZZDATABASE.MDF/True/SqlTable/dbo.TransactionDetails.sql",
+              "ToolTip": "dbo.TransactionDetails [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-14T02:55:45.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertMakeupTypePage.aspx",
+              "DocumentMoniker": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\InsertMakeupTypePage.aspx",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Views\\InsertMakeupTypePage.aspx",
+              "ToolTip": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\InsertMakeupTypePage.aspx",
+              "RelativeToolTip": "MakeMeUpzz\\Views\\InsertMakeupTypePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-14T02:43:24.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateMakeupPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\UpdateMakeupPage.aspx.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Views\\UpdateMakeupPage.aspx.cs",
+              "ToolTip": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\UpdateMakeupPage.aspx.cs",
+              "RelativeToolTip": "MakeMeUpzz\\Views\\UpdateMakeupPage.aspx.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAlwD0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:30:34.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertMakeupTypePage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\InsertMakeupTypePage.aspx.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Views\\InsertMakeupTypePage.aspx.cs",
+              "ToolTip": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\InsertMakeupTypePage.aspx.cs",
+              "RelativeToolTip": "MakeMeUpzz\\Views\\InsertMakeupTypePage.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:29:30.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertMakeupBrandPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\InsertMakeupBrandPage.aspx.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Views\\InsertMakeupBrandPage.aspx.cs",
+              "ToolTip": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\InsertMakeupBrandPage.aspx.cs",
+              "RelativeToolTip": "MakeMeUpzz\\Views\\InsertMakeupBrandPage.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCQAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:29:16.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MakeupController.cs",
+              "DocumentMoniker": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Controllers\\MakeupController.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Controllers\\MakeupController.cs",
+              "ToolTip": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Controllers\\MakeupController.cs",
+              "RelativeToolTip": "MakeMeUpzz\\Controllers\\MakeupController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwCYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:23:01.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsertMakeupPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\InsertMakeupPage.aspx",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Views\\InsertMakeupPage.aspx",
+              "ToolTip": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\InsertMakeupPage.aspx",
+              "RelativeToolTip": "MakeMeUpzz\\Views\\InsertMakeupPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-14T02:16:44.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsertMakeupPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\InsertMakeupPage.aspx.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Views\\InsertMakeupPage.aspx.cs",
+              "ToolTip": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\InsertMakeupPage.aspx.cs",
+              "RelativeToolTip": "MakeMeUpzz\\Views\\InsertMakeupPage.aspx.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:13:00.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\RegisterPage.aspx.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Views\\RegisterPage.aspx.cs",
+              "ToolTip": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\RegisterPage.aspx.cs",
+              "RelativeToolTip": "MakeMeUpzz\\Views\\RegisterPage.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:46:11.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\RegisterPage.aspx",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Views\\RegisterPage.aspx",
+              "ToolTip": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\RegisterPage.aspx",
+              "RelativeToolTip": "MakeMeUpzz\\Views\\RegisterPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-14T01:45:57.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageMakeupPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\ManageMakeupPage.aspx",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Views\\ManageMakeupPage.aspx",
+              "ToolTip": "C:\\Users\\Vallen Charissa\\Downloads\\MakeMeUpz\\MakeMeUpzz\\MakeMeUpzz\\Views\\ManageMakeupPage.aspx",
+              "RelativeToolTip": "MakeMeUpzz\\Views\\ManageMakeupPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-14T01:42:00.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
